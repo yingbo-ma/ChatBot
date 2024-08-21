@@ -88,7 +88,7 @@ def generate_response(prompt, image=None, pdf=None):
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-st.subheader("MedChat LLM")
+st.subheader("incognitoGPT")
 
 with st.sidebar:
     st.subheader("Attach your files.")
