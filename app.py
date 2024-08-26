@@ -8,7 +8,6 @@ from pypdf import PdfReader
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.units import inch
-from pdfrw import PdfReader, PdfWriter, IndirectPdfDict, PdfDict
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 from reportlab.lib import colors
